@@ -625,9 +625,6 @@ while running:
     if game.cam_x < GAME_MAX_X and not paused:
         game.tick()
 
-    if game.gen > RUN_GENERATIONS:
-        paused = True
-
     pygame.display.update()
 
     clock.tick(FPS)

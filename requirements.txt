@@ -1,0 +1,5 @@
+csv
+math
+numpy
+pygame
+scipy
