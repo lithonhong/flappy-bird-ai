@@ -41,7 +41,7 @@ Percentiles: 0.1: 144 | 0.25: 144 | 0.4: 144 | 0.5: 96 | 0.6: 96 | 0.75: 96 | 0.
 Categorical scores: random: 96.0
 ```
 
-3. Press ***Space** to pause/resume the simulation.
+3. Press **Space** to pause/resume the simulation.
 
 4. After the window is closed, two files (`birds.csv` and `percentiles.csv`) containing data of the run are added to the directory (if it doesn't previously exist).
 
@@ -116,12 +116,7 @@ With a slight probability, the offspring's neural network weight may undergo **f
 
 
 ## Foundings
-A more in-depth document can be found [here](documentation/foundings.md).
-
-Generally, two-parent reproduction works better than one-parent reproduction, producing more stable results.
-
-However, when placed in a "hybrid" environment where birds can undergo either type of reproduction,
-little to no difference is observed between the two types of evolution.
+The foundings of this project can be found [here](documentation/foundings.md).
 
 
 ## Contributing & Feedback
