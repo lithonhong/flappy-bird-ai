@@ -79,7 +79,6 @@ GRAPH_TEXT_COLOUR = (40, 40, 40)
 # images
 IMG = {
     "background_day": pygame.image.load("assets/sprites/background-day.png"),
-    "background_night": pygame.image.load("assets/sprites/background-night.png"),
     "base": pygame.image.load("assets/sprites/base.png"),
     "pipe_btm": pygame.image.load("assets/sprites/pipe-green.png")
 }
